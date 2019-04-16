@@ -1,17 +1,8 @@
-# Assignment 6 report Group: thursday-d-a6
-Group members: 
-- Nikolaus Parulian, 
-- Yogeshwar Kansara, 
-- Siti Zhang, 
-- Xingxing Zhang, 
-- Nihali Jain
-
-Requirements:
 - networkx
 - pandas
 - pygeodesy
 - mplleaflet
-- matplotlib (if you want to show the network graph)
+- matplotlib 
 
 Assignment analysis and programming ideas:
 
@@ -35,16 +26,3 @@ Example of running session:
 The image above show how user can choose travel path from Sherman Hall to Students Arcade Building. As we can see the apps show information that the road between S 5th Street-East Chalmers Street to East Daniel Street-S 5th Street is closed, so the app take reroute to East Chalmers Street instead. This application also can show the image route using mpleaflet library will be shown like below:
 
 ![alt text](./images/sherman_to_arcade.png "travel map")
-
-Tasks defined for the assignment are as follows:
-1.	Requirement Gathering: All team members
-2.	Assigning the task: Nikolaus and Yogeshwar
-3.	Data collection: Nikolaus, Yogeshwar and Xingxing
-4.	Programming:
-  - logic: Nikolaus and Nihali
-  - coding: Nikolaus and Nihali
-  - OOP: Nikolaus and Yogeshwar
-5.	Doctest writing: Siti and Xingxing
-6.	Blackbox testing: Siti and Xingxing
-7.	Refactoring: Nikolaus
-8.	Report writing: Siti and Xingxing
